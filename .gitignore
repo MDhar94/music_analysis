@@ -1,0 +1,16 @@
+# Env #
+.env
+
+# OS generated files #
+######################
+.DS_Store
+__MACOSX
+
+# Jupyter #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
+
+# Data #
+data/

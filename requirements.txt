@@ -1,0 +1,15 @@
+# DBT
+dbt
+dbt-bigquery
+# DA
+ipdb
+numpy
+pandas
+# ML
+scikit-learn
+# Viz
+matplotlib
+seaborn
+# Cloud
+google-cloud-bigquery
+google-cloud-storage
