@@ -5,10 +5,10 @@ from utils.params import *
 
 class DataLoader:
 
-    def __init__(self, project_id:str, dataset_id:str, table_id:str):
-        self.project_id = project_id
-        self.dataset_id = dataset_id
-        self.table_id = table_id
+    def __init__(self):
+        self.project_id = PROJECT_ID
+        self.dataset_id = DATASET_ID
+        self.table_id = TABLE_ID
 
     def load_data(self) -> pd.DataFrame:
 
