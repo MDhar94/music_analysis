@@ -1,9 +1,11 @@
 # DBT
 dbt
 dbt-bigquery
-# DA
+# Python
 ipdb
 numpy
+ipykernel
+# DA
 pandas
 # ML
 scikit-learn
